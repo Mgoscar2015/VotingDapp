@@ -1,0 +1,27 @@
+{
+  "name": "votingdapp",
+  "version": "1.0.0",
+  "description": "'Dapp for voting'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mgoscar2015/VotingDapp.git"
+  },
+  "keywords": [
+    "voting",
+    "blockchain"
+  ],
+  "author": "mgoscar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mgoscar2015/VotingDapp/issues"
+  },
+  "homepage": "https://github.com/Mgoscar2015/VotingDapp#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "chai-as-promised": "^7.1.1"
+  }
+}
